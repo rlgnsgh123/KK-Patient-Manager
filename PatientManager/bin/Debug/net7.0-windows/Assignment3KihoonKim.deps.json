@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Assignment3KihoonKim/1.0.0": {
+        "dependencies": {
+          "PatientLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Assignment3KihoonKim.dll": {}
+        }
+      },
+      "PatientLibrary/1.0.0": {
+        "runtime": {
+          "PatientLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment3KihoonKim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PatientLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

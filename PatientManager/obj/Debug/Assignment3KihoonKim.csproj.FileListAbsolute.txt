@@ -1,0 +1,11 @@
+C:\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\bin\Debug\Assignment3KihoonKim.exe.config
+C:\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\bin\Debug\Assignment3KihoonKim.exe
+C:\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\bin\Debug\Assignment3KihoonKim.pdb
+C:\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\Assignment3KihoonKim.csproj.AssemblyReference.cache
+C:\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\Assignment3KihoonKim.csproj.SuggestedBindingRedirects.cache
+C:\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\Assignment3KihoonKim.Form1.resources
+C:\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\Assignment3KihoonKim.Properties.Resources.resources
+C:\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\Assignment3KihoonKim.csproj.GenerateResource.cache
+C:\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\Assignment3KihoonKim.csproj.CoreCompileInputs.cache
+C:\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\Assignment3KihoonKim.exe
+C:\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\Assignment3KihoonKim.pdb

@@ -1,0 +1,88 @@
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.csproj.AssemblyReference.cache
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\Assignment3KihoonKim.Form1.resources
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.Properties.Resources.resources
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.csproj.GenerateResource.cache
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.AssemblyInfoInputs.cache
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.AssemblyInfo.cs
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.csproj.CoreCompileInputs.cache
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientManagerApp.exe
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientManagerApp.dll.config
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientManagerApp.deps.json
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientManagerApp.runtimeconfig.json
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientManagerApp.pdb
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientLibrary.dll
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientLibrary.pdb
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.csproj.CopyComplete
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\refint\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.pdb
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.genruntimeconfig.cache
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\Assignment3KihoonKim\obj\Debug\net7.0-windows\ref\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientManagerApp.exe
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientManagerApp.dll.config
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientManagerApp.deps.json
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientManagerApp.runtimeconfig.json
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientManagerApp.pdb
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientLibrary.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\bin\Debug\net7.0-windows\PatientLibrary.pdb
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.csproj.AssemblyReference.cache
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\Assignment3KihoonKim.Form1.resources
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.Properties.Resources.resources
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.csproj.GenerateResource.cache
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.AssemblyInfoInputs.cache
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.AssemblyInfo.cs
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.csproj.CoreCompileInputs.cache
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.csproj.CopyComplete
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\refint\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.pdb
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\PatientManagerApp.genruntimeconfig.cache
+D:\Level2\prog1965-Concept\PatientManagerApp\Assignment3KihoonKim\obj\Debug\net7.0-windows\ref\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\bin\Debug\net7.0-windows\PatientManagerApp.exe
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\bin\Debug\net7.0-windows\PatientManagerApp.dll.config
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\bin\Debug\net7.0-windows\PatientManagerApp.deps.json
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\bin\Debug\net7.0-windows\PatientManagerApp.runtimeconfig.json
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\bin\Debug\net7.0-windows\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\bin\Debug\net7.0-windows\PatientManagerApp.pdb
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\bin\Debug\net7.0-windows\PatientLibrary.dll
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\bin\Debug\net7.0-windows\PatientLibrary.pdb
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.csproj.AssemblyReference.cache
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\KKPatientManger.Form1.resources
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.Properties.Resources.resources
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.csproj.GenerateResource.cache
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.AssemblyInfoInputs.cache
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.AssemblyInfo.cs
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.csproj.CoreCompileInputs.cache
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.csproj.CopyComplete
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\refint\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.pdb
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.genruntimeconfig.cache
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientManager\obj\Debug\net7.0-windows\ref\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\bin\Debug\net7.0-windows\PatientManagerApp.exe
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\bin\Debug\net7.0-windows\PatientManagerApp.dll.config
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\bin\Debug\net7.0-windows\PatientManagerApp.deps.json
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\bin\Debug\net7.0-windows\PatientManagerApp.runtimeconfig.json
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\bin\Debug\net7.0-windows\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\bin\Debug\net7.0-windows\PatientManagerApp.pdb
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\bin\Debug\net7.0-windows\PatientLibrary.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\bin\Debug\net7.0-windows\PatientLibrary.pdb
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.csproj.AssemblyReference.cache
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\KKPatientManger.Form1.resources
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.Properties.Resources.resources
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.csproj.GenerateResource.cache
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.AssemblyInfoInputs.cache
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.AssemblyInfo.cs
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.csproj.CoreCompileInputs.cache
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.csproj.CopyComplete
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\refint\PatientManagerApp.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.pdb
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\PatientManagerApp.genruntimeconfig.cache
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientManager\obj\Debug\net7.0-windows\ref\PatientManagerApp.dll

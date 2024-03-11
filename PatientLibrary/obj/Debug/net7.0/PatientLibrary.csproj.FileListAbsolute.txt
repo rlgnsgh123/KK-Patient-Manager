@@ -1,0 +1,45 @@
+C:\Assignment3KihoonKim\PatientLibrary\bin\Debug\net7.0\PatientLibrary.deps.json
+C:\Assignment3KihoonKim\PatientLibrary\bin\Debug\net7.0\PatientLibrary.dll
+C:\Assignment3KihoonKim\PatientLibrary\bin\Debug\net7.0\PatientLibrary.pdb
+C:\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\PatientLibrary.csproj.AssemblyReference.cache
+C:\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\PatientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\PatientLibrary.AssemblyInfoInputs.cache
+C:\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\PatientLibrary.AssemblyInfo.cs
+C:\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\PatientLibrary.csproj.CoreCompileInputs.cache
+C:\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\PatientLibrary.dll
+C:\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\refint\PatientLibrary.dll
+C:\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\PatientLibrary.pdb
+C:\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\ref\PatientLibrary.dll
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\PatientLibrary\bin\Debug\net7.0\PatientLibrary.deps.json
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\PatientLibrary\bin\Debug\net7.0\PatientLibrary.dll
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\PatientLibrary\bin\Debug\net7.0\PatientLibrary.pdb
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\PatientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\PatientLibrary.AssemblyInfoInputs.cache
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\PatientLibrary.AssemblyInfo.cs
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\PatientLibrary.csproj.CoreCompileInputs.cache
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\PatientLibrary.dll
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\refint\PatientLibrary.dll
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\PatientLibrary.pdb
+D:\Level2\prog1965-Concept\Assignment3KihoonKim\PatientLibrary\obj\Debug\net7.0\ref\PatientLibrary.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientLibrary\bin\Debug\net7.0\PatientLibrary.deps.json
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientLibrary\bin\Debug\net7.0\PatientLibrary.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientLibrary\bin\Debug\net7.0\PatientLibrary.pdb
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientLibrary\obj\Debug\net7.0\PatientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientLibrary\obj\Debug\net7.0\PatientLibrary.AssemblyInfoInputs.cache
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientLibrary\obj\Debug\net7.0\PatientLibrary.AssemblyInfo.cs
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientLibrary\obj\Debug\net7.0\PatientLibrary.csproj.CoreCompileInputs.cache
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientLibrary\obj\Debug\net7.0\PatientLibrary.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientLibrary\obj\Debug\net7.0\refint\PatientLibrary.dll
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientLibrary\obj\Debug\net7.0\PatientLibrary.pdb
+D:\Level2\prog1965-Concept\PatientManagerApp\PatientLibrary\obj\Debug\net7.0\ref\PatientLibrary.dll
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientLibrary\bin\Debug\net7.0\PatientLibrary.deps.json
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientLibrary\bin\Debug\net7.0\PatientLibrary.dll
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientLibrary\bin\Debug\net7.0\PatientLibrary.pdb
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientLibrary\obj\Debug\net7.0\PatientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientLibrary\obj\Debug\net7.0\PatientLibrary.AssemblyInfoInputs.cache
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientLibrary\obj\Debug\net7.0\PatientLibrary.AssemblyInfo.cs
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientLibrary\obj\Debug\net7.0\PatientLibrary.csproj.CoreCompileInputs.cache
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientLibrary\obj\Debug\net7.0\PatientLibrary.dll
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientLibrary\obj\Debug\net7.0\refint\PatientLibrary.dll
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientLibrary\obj\Debug\net7.0\PatientLibrary.pdb
+D:\Level2\prog1965-Concept\PatientManagerApp - Copy\PatientLibrary\obj\Debug\net7.0\ref\PatientLibrary.dll
